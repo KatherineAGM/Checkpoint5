@@ -10,7 +10,7 @@ Un **condicional** es una estructura de control fundamental en programación que
 
 ## Estructuras Condicionales Comunes
 
-<img src="C:\Users\MSI\Documents\Checkpoint5\condicionales.png" img width="500px">
+<img src="https://github.com/KatherineAGM/Checkpoint5/blob/main/condicionales.png" img width="500px">
 
 Las más comunes son:
 
