@@ -27,11 +27,11 @@ Los condicionales anidados en Python son el resultado de introducir un condicion
 
 Como ocurre con el elif, se emplean para comprobar distintas variables. Entonces, ¿qué los distingue exactamente de esta secuencia? ¡Veámoslo!
 
-<img src="C:\Users\MSI\Documents\Checkpoint5\diferencias.png" img width="500px">
+<img src="https://github.com/KatherineAGM/Checkpoint5/blob/main/diferencias.png" img width="500px">
 
 Otra de las dudas que pueden surgirte es si los condicionales anidados suponen una alternativa válida al operador or. Lo cierto es que ambos hacen lo mismo: determinar si, como mínimo, uno de los requisitos expresados es verdadero. Por ejemplo, estos dos códigos indican las mismas instrucciones:
 
-<img src="C:\Users\MSI\Documents\Checkpoint5\dudas.png" img width="500px">
+<img src="https://github.com/KatherineAGM/Checkpoint5/blob/main/dudas.png" img width="500px">
 
 Hay otros operadores lógicos que pueden sustituir las anidaciones condicionales, como el and. Emplear unos y otros depende del grado de detalle que quieras darle al código y de lo complejidad de las condiciones que haya que describir.
 
